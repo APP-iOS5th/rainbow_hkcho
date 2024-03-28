@@ -1,2 +1,3 @@
 The first color is red.
 The second color is orange.
+The third color is yellow.
