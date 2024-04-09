@@ -2,4 +2,8 @@ The first color is red.
 The second color is orange.
 The third color is yellow.
 
-The forth color is green.The fifth color is blue.
+The forth color is green.
+The fifth color is blue.
+
+
+The sixth color is megenta.
